@@ -2,10 +2,8 @@
 <img src="/images/banner.jpg"
 /p>
 
-## Content 
-
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Contents</summary>
   <ol>
     <li><a href="#Description">Description</a></li>
     <li><a href="#Installation">Installation</a></li>
@@ -79,11 +77,11 @@ In order to run the test, type `npm run test` in the commond-line.
 
  ## Credits 
 
-  fs - https://nodejs.org/api/fs.html
+  [fs](https://nodejs.org/api/fs.html)
 
-  jest - https://www.npmjs.com/package/jest
+  [jest](https://www.npmjs.com/package/jest)
 
-  inquirer - https://www.npmjs.com/package/inquirer
+  [inquirer](https://www.npmjs.com/package/inquirer)
   
 ## <a id="lic-header"></a>License:
 This project is licensed by [MIT](https://github.com/HJandu/team-profile-generator?tab=MIT-1-ov-file) License. &copy;Hardip Jandu
