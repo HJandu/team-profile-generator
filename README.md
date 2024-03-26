@@ -18,7 +18,7 @@
 
 
 ## Description
-This application will take in information about employees on a software engineering team, and it will then generate an HTML webpage that displays summaries for each person. The webpage displays the team's basic info so that a user has quick access to their teams emails and GitHub profiles.
+This application will take in information about employees on a software engineering team, and it will then generate an HTML webpage that displays summaries for each person on the team. The webpage displays the team's basic information, so that a user has quick access to their teams emails, GitHub profiles and phone numbers.
 
 
 ## Installation
