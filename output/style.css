@@ -7,7 +7,22 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.team-heading{
+    background-color: rgb(112, 19, 98);
+}
 
+h1{
+    color: white;
+}
+
+.card-body{
+    background-color:grey;
+}
+
+.card-header{
+    background-color: rgb(112, 19, 98);
+    color: white;
+}
 /* .team-area.col-12.d-flex.justify-content-center {
     display: flex;
     flex-wrap: wrap;
